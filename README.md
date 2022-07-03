@@ -23,15 +23,10 @@ Users should be able to:
 
 - View the optimal layout for the site depending on their device's screen size
 
-### Screenshot
-<!-- <img src="Screenshot a.png" alt="screenshot of design template"> -->
-![screenshot of design template](Screenshot a.png)
-
-
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [frontendmentor](https://www.frontendmentor.io/solutions/testimonials-grid-design-SM7o7XF_Cn)
+- Live Site URL: [allyskorsah.github.io](https://allyskorsah.github.io/Testimonials-Template/)
 
 
 ## My process
@@ -54,12 +49,16 @@ For future projects I want to continue focusing on the areas outlined below. The
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Website - [allyskorsah.github.io](https://allyskorsah.github.io/)
+- Frontend Mentor - [@allyskorsah](https://www.frontendmentor.io/profile/allyskorsah)
 
 
 ## Acknowledgments
 
 I would like to acknowledge [Brad Traversy](https://codepen.io/bradtraversy)
-[Ingressive4Good](https://ingressive.org/) [Zuri Team](https://zuri.team/) [Zuri Team Training](https://training.zuri.team/)
 
+[Ingressive4Good](https://ingressive.org/)
+
+[Zuri Team](https://zuri.team/) 
+
+[Zuri Team Training](https://training.zuri.team/)
