@@ -62,4 +62,4 @@ For future projects I want to continue focusing on the areas outlined below. The
 
 I would like to acknowledge [Brad Traversy](https://codepen.io/bradtraversy)
 [Ingressive4Good](https://ingressive.org/) [Zuri Team](https://zuri.team/) [Zuri Team Training](https://training.zuri.team/)
-# about
+
