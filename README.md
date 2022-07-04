@@ -59,7 +59,9 @@ For future projects I want to continue focusing on the areas outlined below. The
 
 ## Acknowledgments
 
-I would like to acknowledge [Brad Traversy](https://codepen.io/bradtraversy)
+I would like to acknowledge
+
+[Brad Traversy](https://codepen.io/bradtraversy)
 
 [Ingressive4Good](https://ingressive.org/)
 
