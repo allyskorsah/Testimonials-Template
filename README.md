@@ -23,6 +23,10 @@ Users should be able to:
 
 - View the optimal layout for the site depending on their device's screen size
 
+### Screenshot
+
+![Screenshot](./Screenshot%20a.png)
+
 ### Links
 
 - Solution URL: [frontendmentor](https://www.frontendmentor.io/solutions/testimonials-grid-design-SM7o7XF_Cn)
